@@ -2,6 +2,7 @@ package org.prog.collections;
 
 import org.prog.Car;
 
+import java.lang.reflect.Array;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -12,6 +13,7 @@ public class CollectionsDemo {
     /**
      * HOMEWORK 3:
      * using this code print colors and owner names of all cars which plateNumber has 001
+     *
      * @param args
      */
 
@@ -31,23 +33,33 @@ public class CollectionsDemo {
         car4.color = "green";
         car4.plateNumber = "D001";
 
-        Set<Car> bobCars = new HashSet<>();
-        bobCars.add(car1);
-        bobCars.add(car2);
-        bobCars.add(car3);
-        Set<Car> aliceCars = new HashSet<>();
-        aliceCars.add(car2);
-        aliceCars.add(car4);
+        //Set<Car> bobCars = new HashSet<>();
+        //bobCars.add(car1);
+        // bobCars.add(car2);
+        //bobCars.add(car3);
+        //Set<Car> aliceCars = new HashSet<>();
+        //aliceCars.add(car2);
+        //aliceCars.add(car4);
+        Set<Car> firstList = new HashSet<>();
+        firstList.add(car1);
+        firstList.add(car4);
+        Set<Car> secondList = new HashSet<>();
+        secondList.add(car2);
+        secondList.add(car3);
 
-        ownedCars.put("Bob", bobCars);
-        ownedCars.put("Alice", aliceCars);
+        ownedCars.put("Bob", firstList);
+        ownedCars.put("Alise", firstList);
+
 
         Set<String> keySet = ownedCars.keySet();
         for (String key : keySet) {
             Set<Car> cars = ownedCars.get(key);
             for (Car c : cars) {
                 System.out.println(c.color);
+                System.out.println(c.plateNumber);
             }
         }
+
+
     }
 }
