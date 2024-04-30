@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc2b447a-e964-4d2a-95f1-feac388ecf69" name="Changes" comment="HomeWork Selenium&#10;1task(SeleniumHome)&#10;2task(SeleniumH2)">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/prog/web/ParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/prog/web/AlloUaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/prog/web/AlloUaTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MarinaLubiana&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MarinaLubiana/ORG-PROG-APR-2024.git&quot;,
+    &quot;accountId&quot;: &quot;09ad463a-d66a-476e-9ca0-0d326168793a&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fV4owPXTv2UVnCnM0Ndqt5w866" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SeleniumDemo.executor": "Run",
+    "Application.SeleniumH2.executor": "Run",
+    "Application.SeleniumHomeW.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlloUaTest.executor": "Run",
+    "TestNG.ParamTest.executor": "Run",
+    "TestNG.ParamTest.paramTest.executor": "Run",
+    "TestNG.ParamTest.testSear.executor": "Run",
+    "git-widget-placeholder": "HomeWork6",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dmitr/IdeaProjects/ORG-PROG-APR-2024"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.ParamTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ORG-PROG-APR-2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ORG-PROG-APR-2024" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APR-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.prog.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.prog.web" />
+      <option name="MAIN_CLASS_NAME" value="org.prog.web.ParamTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamTest.paramTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APR-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.prog.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.prog.web" />
+      <option name="MAIN_CLASS_NAME" value="org.prog.web.ParamTest" />
+      <option name="METHOD_NAME" value="paramTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamTest.testSear" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APR-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.prog.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.prog.web" />
+      <option name="MAIN_CLASS_NAME" value="org.prog.web.ParamTest" />
+      <option name="METHOD_NAME" value="testSear" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ParamTest" />
+        <item itemvalue="TestNG.ParamTest.testSear" />
+        <item itemvalue="TestNG.ParamTest.paramTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2b447a-e964-4d2a-95f1-feac388ecf69" name="Changes" comment="" />
+      <created>1713873094050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713873094050</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HomeW4">
+      <option name="closed" value="true" />
+      <created>1714120917536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714120917536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HomeW4">
+      <option name="closed" value="true" />
+      <created>1714121031315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714121031315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomeWork Selenium&#10;1task(SeleniumHome)&#10;2task(SeleniumH2)">
+      <option name="closed" value="true" />
+      <created>1714152139485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714152139485</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HomeWork Selenium&#10;1task(SeleniumHome)&#10;2task(SeleniumH2)">
+      <option name="closed" value="true" />
+      <created>1714152625724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714152625724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW4" />
+    <MESSAGE value="HomeW4" />
+    <MESSAGE value="HomeWork Selenium&#10;1task(SeleniumHome)&#10;2task(SeleniumH2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork Selenium&#10;1task(SeleniumHome)&#10;2task(SeleniumH2)" />
+  </component>
+</project>
